@@ -1,0 +1,20 @@
+.row{
+ display: flex;
+  justify-content: center;
+}
+box{
+  border: solid black;
+  height: 30px;
+  width: 30px;
+}
+#odd{
+  background-color:brown;
+}
+#even{
+  background-color: antiquewhite;
+}
+.container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
